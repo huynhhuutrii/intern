@@ -2,5 +2,6 @@
   "name": "intern",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Jane Doe",
 }
